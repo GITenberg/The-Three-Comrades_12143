@@ -1,0 +1,30 @@
+_repo: The-Three-Comrades_12143
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Royová, Kristína
+    aliases:
+    - Royova, Kristina
+    - Roy, Christina
+    - Roy, Kristina
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '4241'
+    url: http://www.gutenberg.org/2009/agents/4241
+    wikipedia: http://sk.wikipedia.org/wiki/Krist%C3%ADna_Royov%C3%A1
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Czechoslovakia  -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PG'
+- GITenberg
+title: The Three Comrades
+url: http://www.gutenberg.org/ebooks/12143
